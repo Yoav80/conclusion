@@ -8,6 +8,7 @@ import store from './store';
 import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
 import './index.style.css';
 
+
 ReactDOM.render(
 	<Provider store={store}>
 		<App />
